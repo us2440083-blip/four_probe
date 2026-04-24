@@ -31,17 +31,6 @@ It processes experimental data from the Four Probe Method to calculate resistivi
 
 ---
 
-## 📂 Input Data Format
-
-The input file (`four_probe_data.xlsx` or `.csv`) must contain:
-
-| Column Name | Description            |
-| ----------- | ---------------------- |
-| tempC       | Temperature in Celsius |
-| vcool       | Cooling voltage        |
-| vheat       | Heating voltage        |
-
----
 
 ## ▶️ How to Run
 
